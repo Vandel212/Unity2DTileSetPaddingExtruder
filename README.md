@@ -14,11 +14,7 @@ Instructions
 
 3) Click the "Process" button. The program will run, and output the file.
 
-
-
-
-
-
+<br/><br/><br/>
 ****IMPORTANT****
 
 This will overwrite the output file, so make sure you move it or rename it if you plan on using the same file name again.
